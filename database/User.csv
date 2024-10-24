@@ -1,0 +1,7 @@
+"id","email","password","name","createdAt","role","alamat","image"
+1,"admin@gmail.com","$argon2id$v=19$m=65536,t=3,p=4$InAm1C7LtvQXYO7asJ6+rQ$Qm638FwRYfF9dussTbKVHBlWsF9OFgHmH63/zksAOkA","Admin","2024-10-22 04:58:21.185","ADMIN","123 Admin Street",NULL
+2,"rezagmail.com","$argon2id$v=19$m=65536,t=3,p=4$SO+zR4JKCsoxUkHYSsJY1Q$6NwWmrugC3gNem3Tf5or6dBzUhASNtdQ+Cc0tfjYoQk","kedawon","2024-10-22 05:53:57.031","USER","USER",NULL
+3,"reza","$argon2id$v=19$m=65536,t=3,p=4$EYlBWDOXbKvwqrNtH9f03A$xdVvJrL9B1zCHfwCQ0PbipRJ4/BM9zPlWfV6LpFduUY","reza","2024-10-22 06:01:36.22","USER",NULL,NULL
+5,"reza maulana","$argon2id$v=19$m=65536,t=3,p=4$pHrv2jYfDnI5yMbHRyKgZw$U4znPr+sF2TJGYkT9sw2XICIaFY+C9Aa4gy6M8UCbgE","reza","2024-10-22 07:43:20.323","USER",NULL,NULL
+6,"reza.maulana@gmail.com","$argon2id$v=19$m=65536,t=3,p=4$q/NP9l9gtc7oNm/JRE4Frw$eYPTuxPS/aesreOHtRP2GPHR1kYbkCTfJsRsupbyybc","reza maulana","2024-10-22 08:14:40.499","USER",NULL,NULL
+7,"reza@gmail.com","$argon2id$v=19$m=65536,t=3,p=4$Z0wetAMGKzTqfgkgX/ivdA$Ja+ZkCRz7O6L0rodK0DsajQZvv7PQdor4MzCAFaGmyM","reza","2024-10-22 09:35:27.264","USER",NULL,NULL
